@@ -1,5 +1,5 @@
 # Scribe
-A Simple React App to demostrate how components work 
+A Simple  App to demostrate how React components work 
 
 # Technologies and tools
 
